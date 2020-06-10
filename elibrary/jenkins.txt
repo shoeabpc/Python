@@ -1,0 +1,11 @@
+http://localhost:8080/job/dp/
+
+
+http://127.0.0.1/repo/Demo Projects/drivepilot/trunk
+
+
+11937c53bd8a00fd121f3b519e435c55f9
+
+
+
+11e7b6604202a4f925b41424a5984c3259
